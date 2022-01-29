@@ -3,7 +3,7 @@
 
 
 * Install VS Code through their website and select the right download for mac or windows
-![link](https://code.visualstudio.com/)
+* [link](https://code.visualstudio.com/)
 * After downloading, open VS Code in applications and screen should look like
 
 ![image](https://user-images.githubusercontent.com/97650817/150315842-922bf44e-21b3-40ea-a097-902d672f5b00.png)
