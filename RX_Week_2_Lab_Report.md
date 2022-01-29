@@ -8,7 +8,9 @@
 
 ![image](https://user-images.githubusercontent.com/97650817/150315842-922bf44e-21b3-40ea-a097-902d672f5b00.png)
 
-* Remote control access by opening the terminal and typing *ssh* then your email to access
+# ***
+***
+* Remote control access by opening the terminal and typing ```ssh``` then your email to access
 * Enter password. It will not show up on your screen to protect privacy
 
 ![image](https://user-images.githubusercontent.com/97650817/150317906-2d81a293-adf2-4ffc-a1f6-d870c464930d.png)
@@ -26,11 +28,11 @@
 ![image](https://user-images.githubusercontent.com/97650817/150320346-6775d750-5ca2-4a69-9161-51b4433b1367.png)
 
 * To create a key enter the ssh-keygen command while on your local computer
-* Then enter /Users/"your name"/.ssh/id_rsa and press enter twice to create no password
+* Then enter ```/Users/"your name"/.ssh/id_rsa``` and press enter twice to create no password
 
 ![image](https://user-images.githubusercontent.com/97650817/150322158-a7cb0915-e5c0-4d9a-8dc0-ebc2b1834e5a.png)
 
-* log back onto the server and enter mkdir .ssh then log out and enter scp /Users/"yourname"/.ssh/id_rsa.pub cs15lwi22@ieng6.ucsd.edu:~/.ssh/authorized_keys
+* log back onto the server and enter mkdir .ssh then log out and enter ```scp /Users/"your name"/.ssh/id_rsa.pub cs15lwi22@ieng6.ucsd.edu:~/.ssh/authorized_keys```
 
 ![image](https://user-images.githubusercontent.com/97650817/150322904-f90d878a-5733-478e-8639-cb465b4c4449.png)
 
