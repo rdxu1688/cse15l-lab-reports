@@ -29,7 +29,7 @@
 ![image](https://user-images.githubusercontent.com/97650817/150320346-6775d750-5ca2-4a69-9161-51b4433b1367.png)
 
 ## Creating Key (5)
-* To create a key enter the ssh-keygen command while on your local computer
+* To create a key enter the ```ssh-keygen``` command while on your local computer
 * Then enter ```/Users/"your name"/.ssh/id_rsa``` and press enter twice to create no password
 
 ![image](https://user-images.githubusercontent.com/97650817/150322158-a7cb0915-e5c0-4d9a-8dc0-ebc2b1834e5a.png)
