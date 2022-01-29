@@ -38,7 +38,7 @@
 
 ![image](https://user-images.githubusercontent.com/97650817/150322904-f90d878a-5733-478e-8639-cb465b4c4449.png)
 
-# How to run multiple commands (6)
+# Running Multiple Commands Remotely (6)
 * Use ; to run multiple commands and " to include it after logging in all in one line
 
 ![image](https://user-images.githubusercontent.com/97650817/150325947-a919a625-ebe1-476a-98f8-96147e4ded59.png)
