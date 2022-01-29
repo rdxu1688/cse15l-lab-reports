@@ -40,7 +40,7 @@
 
 # Running Multiple Commands Remotely (6)
 * Use ; to run multiple commands and " to include it after logging in all in one line
-
+* Should look something like ```scp WhereAmI.java cs151wi22@ieng6.ucsd.edu:~/ ; ssh cs151wi22@ieng6.ucsd.edu "java WhereAmI.java ; java WhereAmI"```
 ![image](https://user-images.githubusercontent.com/97650817/150325947-a919a625-ebe1-476a-98f8-96147e4ded59.png)
 
 
