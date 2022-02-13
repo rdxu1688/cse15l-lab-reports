@@ -7,3 +7,5 @@ I have edited this on **visual studio code**
 [Test](https://rdxu1688.github.io/cse15l-lab-reports/RX_Week_2_Lab_Report.html)
 
 [Week 4 Lab Report](https://rdxu1688.github.io/cse15l-lab-reports/lab-report-2-week-4.html)
+
+[Week 6 Lab Report](https://rdxu1688.github.io/cse15l-lab-reports/lab-report-3-week-6.html)
