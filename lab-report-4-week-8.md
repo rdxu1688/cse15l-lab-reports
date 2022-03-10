@@ -40,4 +40,12 @@ Reviewed Markdown Parse: [Other person's Markdownparse](https://github.com/tyler
 * tester output
 ![image](https://user-images.githubusercontent.com/97650817/157578214-07d24802-34e8-4eac-a0a1-48fa828462b9.png)
 
-
+ # small or big change
+ # 1
+ * No it is not a small change. In order to fix this I need to implement code that will filter out 
+ * many of the extra letters and symbols so that the output is correct
+ # 2
+ * No it is not a small change. My code does not account for the nested parathensis and many extra
+ * brackets in the md file. I will need to write many if statements to filter them out for the code to work
+ # 3
+ * No there is not a small change. I will need code that can check the next lines in case the links are broken up prematurely
