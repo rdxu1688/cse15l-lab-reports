@@ -45,10 +45,15 @@ Reviewed Markdown Parse: [Other person's Markdownparse](https://github.com/tyler
 
  # small or big change
  # 1
- * No it is not a small change. In order to fix this I need to implement code that will filter out 
- * many of the extra letters and symbols so that the output is correct
+ * No it is not a small change. In order to fix this I will need to write code that can get rid of backticks and other
+ * characters within the brackets. This will create a lot of different cases that might require multiple if statement checks
+ * so it will be difficult to get fixed in under 10 lines.
  # 2
  * No it is not a small change. My code does not account for the nested parathensis and many extra
- * brackets in the md file. I will need to write many if statements to filter them out for the code to work
+ * brackets in the md file. I will need to write many more conditional if statement checks to make it so the code does 
+ * not read the extra nested parathensis and brackets
  # 3
- * No there is not a small change. I will need code that can check the next lines in case the links are broken up prematurely
+ * I think that it might be possible to write a small code change in order to fix this issue. 
+ * Unlike the other two snippets, snippet 3 does not have nested extraneous characters that need to be filtered
+ * out with many if statements, but rather it can be fixed by having code that goes to the next line if there is 
+ * space after it for unfinished links or images.
