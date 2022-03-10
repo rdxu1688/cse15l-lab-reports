@@ -3,7 +3,7 @@ Hello, world! Richard Xu Capybara
 
 I have edited this on **visual studio code**
 
-[Week 2 Lab Report](RX_Week_2_Lab_Report.html)
+[Week 2 Lab Report](https://rdxu1688.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
 
 [Week 4 Lab Report](https://rdxu1688.github.io/cse15l-lab-reports/lab-report-2-week-4.html)
 
