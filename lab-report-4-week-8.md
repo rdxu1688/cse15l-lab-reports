@@ -8,7 +8,9 @@ Reviewed Markdown Parse: [Other person's Markdownparse](https://github.com/tyler
 # Snippet 1
 * snippet should produce ```[`google.com, google.com, ucsd.edu]```
 * New test for snippet
+
 ![image](https://user-images.githubusercontent.com/97650817/157576869-4d340664-7e7a-4227-bf26-f33be37e1929.png)
+
 * tester output
 ![image](https://user-images.githubusercontent.com/97650817/157576806-bffeaf57-3c1a-4b7b-8df3-a7edcff4b546.png)
 
