@@ -22,5 +22,13 @@
 
 
 # code 3
+* ![image](https://user-images.githubusercontent.com/97650817/157993372-f195453e-8b7b-4d4a-837c-bfc5c374d9cb.png)
+* symptom
+![image](https://user-images.githubusercontent.com/97650817/157991241-6895f7b5-da60-4383-a440-e3c30b4851b9.png)
+[test file for 3rd bug](https://github.com/rdxu1688/markdown-parse-main-RX/blob/main/test-file.md)
+* If someone were to type out a sentance using brackets and parentheses then the code could read that as a link
+* when it should not be read as a link. So the fix is to make sure links are only read if the ( is after the final
+* bracket and not allow such a large gap in between
+
 
 
