@@ -18,7 +18,7 @@
 * symptom
 ![image](https://user-images.githubusercontent.com/97650817/157571797-fc1ddd06-5ec0-47cf-8042-034a6c624d91.png)
 [break two](https://github.com/rdxu1688/markdown-parse-main-RX/blob/main/breaktwo.md)
-* the old code cuts off early with the paranthesis. Added a different if statement to check for that and fix (for images)
+* the old code cuts off early with the paranthesis. Added a different if statement to check for that and fix 
 
 
 # code 3
