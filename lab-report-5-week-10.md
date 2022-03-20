@@ -35,6 +35,12 @@ My output:
 
 ![image](https://user-images.githubusercontent.com/97650817/158000300-0041fcd3-0802-4f8b-a81c-83956400ff84.png)
 
-I think that both of our outputs are incorrect since the correct output should be ```[]``` since <> is not a link
+I believe that both of these implementations are incorrect since <> is not a link
+![image](https://user-images.githubusercontent.com/97650817/159187812-7a903347-71a1-4057-8710-1358d1c4f8fb.png)
+
+Intended output: 
+```[]```
+
 To fix this, i will need to check the ```toReturn``` to see if there are any <> around the link and remove them so that they won't be in the output
+
 
